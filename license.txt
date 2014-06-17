@@ -1,0 +1,51 @@
+Timothy Framework (c)2009-2011 
+www.timothywebdesign.com
+
+License
+Timothy Framework - Copyright 2009-2011
+
+The Timothy Framework is licensed under a modified MIT Open Source License. 
+Use it. Build with it. Learn with it. Have fun. Be successful.
+
+The Modified MIT License
+
+The MIT License - http://www.opensource.org/licenses/mit-license.php
+
+Copyright (c) 2011 TimothyMark LLC - www.timothyframework.com
+
+Permission is hereby granted to any person obtaining a copy of this 
+software and associated documentation files (the "Software"), to deal 
+in the Software without restriction, including without limitation the rights 
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell 
+copies of items created with the software subject to the following conditions:
+
+You may not use this software for any illegal purpose or for any purpose 
+related to pornography, promotion of violence or in anyway that attacks 
+individuals or groups based on their race, ethnicity, religion, gender 
+or sexual orientation.
+
+You may not resell the templates or the framework, but you can resell your 
+own unique websites you create with them.
+
+Basically as long as your not being evil feel free to use this software 
+however you wish - commercially or otherwise. Several people have asked 
+if they could use the software in their own videos or tutorials. 
+The answer is yes :) 
+and thank you for a link back to my site for people to purchase 
+the framework and templates..
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS 
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE 
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, 
+WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN 
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+Images in templates
+
+The images used in the templates are licensed under a Creative Commons 3.0 Licence. 
+If you need copies of the licenses, please let me know.
+
+JQuery Plug Ins
+
+JQuery plug ins are licensed as open source components. Please see plug in for specific details.

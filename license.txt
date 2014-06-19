@@ -1,10 +1,12 @@
-Timothy Framework (c)2009-2011 
+Frank Velez (c)2014
+
+As from: Timothy Framework
 www.timothywebdesign.com
 
 License
-Timothy Framework - Copyright 2009-2011
+Velez Framework - Copyright 2014
 
-The Timothy Framework is licensed under a modified MIT Open Source License. 
+The Velez Framework is licensed under a modified MIT Open Source License. 
 Use it. Build with it. Learn with it. Have fun. Be successful.
 
 The Modified MIT License
